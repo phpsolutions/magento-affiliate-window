@@ -1,4 +1,4 @@
 magento-affiliate-window
 ========================
 
-Magento affiliate window extension
+An extension to integrate Affliate Window with Magento.
